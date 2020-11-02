@@ -1,17 +1,19 @@
-# Getting Started
+# Learn-springboot
 
-### Reference Documentation
-For further reference, please consider the following sections:
+## Kevin的个人springboot练习笔记等
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.3.5.RELEASE/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.3.5.RELEASE/maven-plugin/reference/html/#build-image)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.3.5.RELEASE/reference/htmlsingle/#boot-features-developing-web-applications)
-
-### Guides
-The following guides illustrate how to use some features concretely:
-
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
+### 目录讲解
+  
+    "
+    springboot默认会挨个从
+    META/resurces>
+    resources>
+    static>
+    public
+    里面找是否存在相应的资源,如果有直接返回,不在默认加载的目录就找不到
+    基本互联⽹网企业 静态资源⽂文件存储在CDN ，HTML、CSS、图⽚片等
+    CDN是内容分发网络
+    "
+### 123
+> + 第一项 
 
